@@ -6,7 +6,7 @@
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [`packages/ui`](packages/ui)                             | `Modal`, `VirtualList` (React + Tailwind; Tailwind-классы — добавьте пакет в `content` вашего приложения) |
 | [`packages/hooks`](packages/hooks)                       | `useDebounce`, `useLocalStorage`                                                                          |
-| [`packages/utils-ts`](packages/utils-ts)                 | `retry` — чистые TS-хелперы без React                                                                     |
+| [`packages/utils-ts`](packages/utils-ts)                 | `debounce`, `throttle`, `retry` — чистые TS-хелперы без React                                             |
 | [`python/image_optimizer`](python/image_optimizer)       | Пакетное сжатие картинок (Pillow)                                                                         |
 | [`python/project_scaffolder`](python/project_scaffolder) | CLI-генератор шаблона фичи для Next.js                                                                    |
 
