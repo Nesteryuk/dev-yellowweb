@@ -1,0 +1,16 @@
+{
+  "name": "@yellowweb/hooks",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18"
+  },
+  "type": "module",
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "exports": {
+    ".": "./index.ts"
+  },
+  "sideEffects": false
+}
